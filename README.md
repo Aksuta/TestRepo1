@@ -1,4 +1,4 @@
-TestRopo1
+TestRepo1
 =========
 
 Tests for LuxSoft
